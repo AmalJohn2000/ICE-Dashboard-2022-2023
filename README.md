@@ -1,4 +1,4 @@
-# ICE-Dashboard-2022-23
+# ICE-Dashboard-2022-2023
 ## Internship Project at ICE Data Services, Hyderabad
 
 The aim of this project was to develop a dynamic dashboard that represents the Social Corporate Responsibility (CSR) project of ICE Data Services, which is carried out in collaboration with the AIF (American Indian Foundation). The CSR project focuses on teaching fintech to students across 30 different schools located in five different cities across two states. A total of 29 fintech sessions were planned to be completed in these schools.
